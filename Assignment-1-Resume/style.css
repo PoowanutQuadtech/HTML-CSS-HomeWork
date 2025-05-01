@@ -1,0 +1,66 @@
+  .Main {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .left {
+    width: 50%;
+    background-color: #d06c5c;
+    color: white;
+    padding: 70px;
+  }
+  
+  .right {
+    width: 50%;
+    padding: 70px;
+    background-color: white;
+  }
+  
+  .ProfilePic{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 5px solid white;
+    margin: 0 auto 20px auto;
+  }
+  
+  .ProfilePic img {
+    height: 100%;
+
+  }
+  
+
+  
+  
+  .Header h3 {
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #703c34;
+    color: white;
+  }
+  .Activities {
+
+    color: #d8694d;
+  }
+  
+  .right h1 {
+    color: #703c34;
+  }
+  .objective {
+    color: #d8694d;
+  }
+  
+  .Footer {
+    height: 40px;
+    color: white;
+    background-color: #d06c5c;
+    margin-left: 25%;
+    padding-left: 50px;
+  }
+
+
+  
